@@ -1,1 +1,2 @@
-Drone: python -m main
+Drone: python3 bot.py
+
